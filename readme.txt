@@ -1,9 +1,3 @@
-Git is a version control system.
-Git is free software.
-this is test
-this is n
-fsdfsdfsdf
-这是测试文件
-public static void main(){
-    echo test;
-}
+初来乍到学习git
+不懂地方还请见谅
+此文件为纯文档
